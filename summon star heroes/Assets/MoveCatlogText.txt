@@ -1,0 +1,11 @@
+ Slash
+Runs up to PLAYER and Slashes them arcross the chest 
+ Bonk
+ rases and slams there WEPON down on PLAYER head
+Headbut 
+runs at PLAYER head down soon  raming into PLAYER 
+Slam
+jumps up high and then slams down on PLAYER
+yell 
+yells very loudly so loudy that PLAYER louses defence
+ 
