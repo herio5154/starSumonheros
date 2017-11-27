@@ -519,11 +519,10 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/prefabs/monsters/units
   m_LastFoldersGridSize: 61
-  m_LastProjectPath: C:\Users\andre\Documents\starSumonheros\starheros\summon star
-    heroes
+  m_LastProjectPath: C:\Users\andre\Documents\GitHub\starSumonheros\summon star heroes
   m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 376}
+    scrollPos: {x: 0, y: 392}
     m_SelectedIDs: 9a2d0000
     m_LastClickedID: 11674
     m_ExpandedIDs: 0000000062280000c6280000ce280000682900006a2900006c2900007c2900002e2a0000d62a00000e2b0000302b0000082c0000342c0000702d0000722d00004c4100004e4100005041000052410000544100005641000000ca9a3bffffff7f
@@ -635,7 +634,7 @@ MonoBehaviour:
     y: 100
     width: 281
     height: 910
-  m_ScrollPosition: {x: 0, y: 219.95508}
+  m_ScrollPosition: {x: 0, y: 0}
   m_InspectorMode: 0
   m_PreviewResizer:
     m_CachedPref: 133
@@ -670,7 +669,7 @@ MonoBehaviour:
     height: 910
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: ae2c0000
+    m_SelectedIDs: 60290000
     m_LastClickedID: 0
     m_ExpandedIDs: a6fbffff00000000
     m_RenameOverlay:
@@ -727,9 +726,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 1.9208395, y: -9.137573, z: -0.039966498}
+    m_Target: {x: 5.1780596, y: -0.9371191, z: -0.06347656}
     speed: 2
-    m_Value: {x: 1.9208395, y: -9.137573, z: -0.039966498}
+    m_Value: {x: 5.1780596, y: -0.9371191, z: -0.06347656}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -756,9 +755,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 4.9229755
+    m_Target: 7.4918175
     speed: 2
-    m_Value: 4.9229755
+    m_Value: 7.4918175
   m_Ortho:
     m_Target: 1
     speed: 2
